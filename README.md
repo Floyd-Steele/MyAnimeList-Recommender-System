@@ -6,4 +6,4 @@ Notes: 1) You will need to download the anime_cleaned and animelists_cleaned csv
 
        2) These data have not been updated since 2018! 
        
-       3) The output of the 
+       3) The output of Hybrid Filter - Data Processing is imported in Hybrid Filter - Application
