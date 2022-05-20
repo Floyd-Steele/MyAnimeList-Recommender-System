@@ -1,4 +1,4 @@
-# MyAnimeList Content Based/Collaborative Recommender System
+# MyAnimeList Content Based-Collaborative Recommender System
 
 Item-Item Hybrid Content-Collaborative Filtering using web scrapped MyAnimeList data from https://www.kaggle.com/datasets/azathoth42/myanimelist
 
