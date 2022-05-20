@@ -1,6 +1,6 @@
-# MyAnimeList Hybrid Content-Collaborative Item-Item Recommender System
+# MyAnimeList Hybrid Item-Item Recommender System
 
-Item-Item Hybrid Content-Collaborative Filtering using web scrapped MyAnimeList data from https://www.kaggle.com/datasets/azathoth42/myanimelist
+Hybrid Content/Collaborative Item-Item Filtering using web scrapped MyAnimeList data from https://www.kaggle.com/datasets/azathoth42/myanimelist
 
 Notes: 
 
